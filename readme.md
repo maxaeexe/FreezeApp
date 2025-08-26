@@ -12,19 +12,10 @@ Program, Windows API fonksiyonlarını (OpenThread, SuspendThread, ResumeThread)
 ### 🛠️ Kurulum
 
 **Gereksinimler**  
-- Windows işletim sistemi  
 - [.NET Framework 4.8 veya üzeri](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)  
-- Visual Studio veya `dotnet run` ile çalışma ortamı  
 
 **Kurulum Adımları**  
-1. Projeyi bilgisayarınıza indirin  
-2. `Program.cs` dosyasını Visual Studio veya başka bir C# IDE’si ile açın  
-3. `processName` değişkenini, kontrol etmek istediğiniz uygulamanın exe adı ile değiştirin (varsayılan: `RobloxPlayerBeta`)  
-4. Uygulamayı derleyin (`Build` → `Build Solution`)  
-5. Derlenen uygulamayı çalıştırın ve hotkey’leri kullanın
-
-
-
-Belirli süreçleri otomatik seçme özelliği ekleyebilir
-
-<p align="center">💡 Kullanım sırasında dikkatli olun!</p>
+1. Projeyi bilgisayarınıza indirin.
+2. Proje klasöründe CMD açın ve `dotnet run` yazın **veya** projeyi derleyip kullanın.
+3. `Program.cs` dosyasını açın ve `processName` değişkenini, kontrol etmek istediğiniz uygulamanın exe adı ile değiştirin (varsayılan: `RobloxPlayerBeta`).
+4. Uygulamanın hotkey’lerini kullanarak işlemleri gerçekleştirin.
