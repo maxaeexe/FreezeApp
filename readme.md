@@ -1,4 +1,3 @@
-⏸️ FreezeApp
 <p align="center"> <img src="https://img.shields.io/badge/.NET-Framework%204.8-blue?style=for-the-badge&logo=dotnet" /> <img src="https://img.shields.io/badge/C%23-Windows%20Forms-purple?style=for-the-badge&logo=csharp" /> <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" /> </p>
 📋 Açıklama
 
