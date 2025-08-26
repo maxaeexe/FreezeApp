@@ -8,27 +8,21 @@ Program, Windows API fonksiyonlarını (OpenThread, SuspendThread, ResumeThread)
 
 ✨ Özellikler
 <p align="left"> <strong>🔧 İşlevler</strong><br> ✅ Belirli bir işlemi bulur ve üzerinde kontrol sağlar<br> ✅ E tuşu → İşlemi dondurma<br> ✅ R tuşu → İşlemi devam ettirme<br> ✅ Konsolda işlem durumunu gösterme<br> </p> <p align="left"> <strong>🖥️ Teknik Detaylar</strong><br> ✅ Windows API kullanımı (user32.dll & kernel32.dll)<br> ✅ HotKey kaydı (global kısayol atama)<br> ✅ Tüm thread’ler üzerinde çalışır<br> ✅ Windows Forms altyapısı ile hazırlanmıştır<br> </p>
-🛠️ Kurulum
 
-Gereksinimler
+### 🛠️ Kurulum
 
-Windows işletim sistemi
+**Gereksinimler**  
+- Windows işletim sistemi  
+- [.NET Framework 4.8 veya üzeri](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)  
+- Visual Studio veya `dotnet run` ile çalışma ortamı  
 
-.NET Framework (4.8 veya üzeri)
+**Kurulum Adımları**  
+1. Projeyi bilgisayarınıza indirin  
+2. `Program.cs` dosyasını Visual Studio veya başka bir C# IDE’si ile açın  
+3. `processName` değişkenini, kontrol etmek istediğiniz uygulamanın exe adı ile değiştirin (varsayılan: `RobloxPlayerBeta`)  
+4. Uygulamayı derleyin (`Build` → `Build Solution`)  
+5. Derlenen uygulamayı çalıştırın ve hotkey’leri kullanın
 
-Visual Studio veya dotnet run ile çalışma
-
-Kurulum Adımları
-
-Projeyi bilgisayarınıza indirin
-
-Program.cs dosyasını Visual Studio veya başka bir C# IDE’si ile açın
-
-processName değişkenini istediğiniz uygulamanın exe adı ile değiştirin (varsayılan: RobloxPlayerBeta)
-
-Uygulamayı derleyin
-
-Çalıştırın
 
 
 Belirli süreçleri otomatik seçme özelliği ekleyebilir
