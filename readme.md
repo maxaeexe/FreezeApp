@@ -8,8 +8,9 @@ Program, Windows API fonksiyonlarını (OpenThread, SuspendThread, ResumeThread)
 ✨ Özellikler
 <p align="left"> <strong>🔧 İşlevler</strong><br> ✅ Belirli bir işlemi bulur ve üzerinde kontrol sağlar<br> ✅ E tuşu → İşlemi dondurma<br> ✅ R tuşu → İşlemi devam ettirme<br> ✅ Konsolda işlem durumunu gösterme<br> </p> <p align="left"> <strong>🖥️ Teknik Detaylar</strong><br> ✅ Windows API kullanımı (user32.dll & kernel32.dll)<br> ✅ HotKey kaydı (global kısayol atama)<br> ✅ Tüm thread’ler üzerinde çalışır<br> ✅ Windows Forms altyapısı ile hazırlanmıştır<br> </p>
 
-### 🛠️ Kurulum
-
+### Test
+- [Oyun içi Gösterim](https://youtu.be/7x9Pbau8Oj0)
+  
 **Gereksinimler**  
 - [.NET Framework 4.8 veya üzeri](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)  
 
