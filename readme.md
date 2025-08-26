@@ -30,49 +30,6 @@ Uygulamayı derleyin
 
 Çalıştırın
 
-🎯 Kullanım
-
-Başlatma
-
-Programı açın
-
-Hedef işlem çalışıyorsa otomatik algılanır
-
-Kontroller
-
-E tuşu: Hedef işlemi dondurur
-
-R tuşu: Hedef işlemi devam ettirir
-
-Konsolda işlem durumu görünür
-
-📊 Çalışma Mantığı
-
-Program açıldığında, belirtilen işlem (RobloxPlayerBeta) çalışıyorsa yakalar
-
-Her bir işlem thread’ini OpenThread ile açar
-
-Dondurma (E): SuspendThread çağırır
-
-Devam Ettirme (R): ResumeThread çağırır
-
-İşlem tamamen duraklatılmış olur, R tuşu ile devam eder
-
-⚠️ Uyarılar
-
-Yanlış bir işlemi dondurursanız sistem kararsız çalışabilir
-
-Yetkisiz oyun/modifikasyonlarda ban riski vardır
-
-Sadece kendi uygulama/test senaryolarınızda kullanmanız tavsiye edilir
-
-🤝 Katkıda Bulunma
-
-Katkıda bulunmak isteyenler:
-
-HotKey kombinasyonlarını değiştirebilir
-
-GUI (arayüz) ekleyebilir
 
 Belirli süreçleri otomatik seçme özelliği ekleyebilir
 
