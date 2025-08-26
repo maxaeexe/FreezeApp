@@ -1,0 +1,14 @@
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\bin\Debug\net8.0\FreezeApp.exe
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\bin\Debug\net8.0\FreezeApp.deps.json
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\bin\Debug\net8.0\FreezeApp.runtimeconfig.json
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\bin\Debug\net8.0\FreezeApp.dll
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\bin\Debug\net8.0\FreezeApp.pdb
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.AssemblyInfoInputs.cache
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.AssemblyInfo.cs
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.dll
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\refint\FreezeApp.dll
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.pdb
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\FreezeApp.genruntimeconfig.cache
+C:\Users\ataka\Desktop\Yeni klasör\FreezeApp\obj\Debug\net8.0\ref\FreezeApp.dll
